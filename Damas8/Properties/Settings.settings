@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Damas8.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="celda14" Type="System.Windows.Forms.ImageLayout" Scope="User">
+      <Value Profile="(Default)">Tile</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

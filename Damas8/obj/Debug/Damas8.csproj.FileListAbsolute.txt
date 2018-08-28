@@ -1,0 +1,15 @@
+C:\Users\fran_\source\repos\Damas8\Damas8\obj\Debug\Damas8Completar.Colocar.resources
+C:\Users\fran_\source\repos\Damas8\Damas8\obj\Debug\Damas8.Espera.resources
+C:\Users\fran_\source\repos\Damas8\Damas8\obj\Debug\Damas8Completar.FAncho.resources
+C:\Users\fran_\source\repos\Damas8\Damas8\obj\Debug\Damas8.Tablero.resources
+C:\Users\fran_\source\repos\Damas8\Damas8\obj\Debug\Damas8.Tamanyo.resources
+C:\Users\fran_\source\repos\Damas8\Damas8\obj\Debug\Damas8Completar.Version.resources
+C:\Users\fran_\source\repos\Damas8\Damas8\obj\Debug\Damas8.csproj.GenerateResource.cache
+C:\Users\fran_\source\repos\Damas8\Damas8\bin\Debug\Damas8.exe.config
+C:\Users\fran_\source\repos\Damas8\Damas8\bin\Debug\Damas8.exe
+C:\Users\fran_\source\repos\Damas8\Damas8\bin\Debug\Damas8.pdb
+C:\Users\fran_\source\repos\Damas8\Damas8\obj\Debug\Damas8.Properties.Resources.resources
+C:\Users\fran_\source\repos\Damas8\Damas8\obj\Debug\Damas8.csproj.CoreCompileInputs.cache
+C:\Users\fran_\source\repos\Damas8\Damas8\obj\Debug\Damas8.exe
+C:\Users\fran_\source\repos\Damas8\Damas8\obj\Debug\Damas8.pdb
+C:\Users\fran_\source\repos\Damas8\Damas8\obj\Debug\Damas8.Resource1.resources
